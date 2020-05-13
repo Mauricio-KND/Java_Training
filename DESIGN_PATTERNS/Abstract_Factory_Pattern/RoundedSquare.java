@@ -4,6 +4,6 @@ public class RoundedSquare implements Shape {
     // Indicates that a method is intended to override a method in a supertype.
     @Override
     public void draw() {
-        System.out.println("Inside RoundSquare::draw() method.");
+        System.out.println("Inside RoundedSquare::draw() method.");
     }
 }
