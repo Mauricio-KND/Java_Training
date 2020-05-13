@@ -1,3 +1,4 @@
+// Use Factory to get object of concrete class by passing information such as type.
 public class FactoryPatternDemo {
 
     public static void main(final String[] args) {
