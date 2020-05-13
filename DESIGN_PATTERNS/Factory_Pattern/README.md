@@ -11,10 +11,10 @@ FactoryPatternDemo, our demo class will use ShapeFactory to get a Shape object. 
 ![FactoryPatternDemo Workflow](https://www.tutorialspoint.com/design_pattern/images/factory_pattern_uml_diagram.jpg)
 
 ### Step 1
-Create an interface: Shape.java
+Create an interface (Shape.java).
 ### Step 2
-Create concrete classes implementing the same interface (Shape.java). Files: Rectangle.java, Square.java and Circle.java.
+Create concrete classes (Rectangle.java, Square.java and Circle.java.) implementing the same interface (Shape.java).
 ### Step 3
-Create a Factory to generate object of concrete class based on given information. ShapeFactory.java
+Create a Factory (ShapeFactory.java) to generate object of concrete class based on given information.
 ### Step 4
-Use the Factory to get object of concrete class by passing an information such as type. FactoryPatternDemo.java
+Use the Factory (FactoryPatternDemo.java) to get object of concrete class by passing an information such as type.
