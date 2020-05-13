@@ -18,4 +18,4 @@ during software development. Learning these patterns helps inexperienced develop
 and faster way.
 
 #### Types of Design Patterns
-As per the design pattern reference book Design Patterns - Elements of Reusable Object-Oriented Software , there are 23 design patterns which can be classified in three categories: **Creational, Structural** and **Behavioral** patterns.
+There are 23 design patterns which can be classified in three categories: **Creational, Structural** and **Behavioral** patterns.
