@@ -7,7 +7,7 @@ We are going to create a Shape interface and a concrete class implementing it. W
 
 AbstractFactoryPatternDemo, our demo class uses FactoryProducer to get a AbstractFactory object. It will pass information (CIRCLE / RECTANGLE / SQUARE for Shape) to AbstractFactory to get the type of object it needs.
 
-![Abstract Factory Pattern Flow](https://www.tutorialspoint.com/design_pattern/images/abstractfactory_pattern_uml_diagram.jpg)
+![AbstractFactoryPatternDemo Workflow](https://www.tutorialspoint.com/design_pattern/images/abstractfactory_pattern_uml_diagram.jpg)
 ### Step 1
 Create an interface (Shape.java) for Shapes.
 ### Step 2
