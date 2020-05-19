@@ -14,3 +14,7 @@ SingleObject class provides a static method to get its static instance to outsid
 Create a Singleton Class (SingleObject.java).
 ### Step 2
 Use SingletonPatternDemo.java to get the only object from the singleton class.
+### Output
+```
+Hello World!
+```

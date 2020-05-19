@@ -18,3 +18,9 @@ Create concrete classes (Rectangle.java, Square.java and Circle.java.) implement
 Create a Factory (ShapeFactory.java) to generate object of concrete class based on given information.
 ### Step 4
 Use the Factory (FactoryPatternDemo.java) to get object of concrete class by passing an information such as type.
+### Output
+```
+Inside Circle::draw() method.
+Inside Rectangle::draw() method.
+Inside Square::draw() method.
+```

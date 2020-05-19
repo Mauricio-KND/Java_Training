@@ -20,3 +20,10 @@ Create Factory classes (ShapeFactory.java and RoundedShapeFactory.java) extendin
 Create a Factory generator/producer (FactoryProducer.java) class to get factories by passing an information such as Shape.
 ### Step 6
 Use the FactoryProducer to get AbstractFactory in order to get factories of concrete classes by passing an information such as type. (AbstractFactoryPatternDemo.java).
+### Output
+```
+Inside Rectangle::draw() method.
+Inside Square::draw() method.
+Inside RoundedRectangle::draw() method.
+Inside RoundedSquare::draw() method.
+```
