@@ -28,6 +28,12 @@ Create concrete class (AudioPlayer.java) implementing the MediaPlayer interface.
 ### Step 5
 Use the AudioPlayer (AdapterPatternDemo.java) to play different types of audio formats.
 ### Output
+```
+Playing mp3 file. Name: beyond the horizon.mp3
+Playing mp4 file. Name: alone.mp4
+Playing vlc file. Name: far far away.vlc
+Invalid media. avi format not supported
+```
 
 
 
