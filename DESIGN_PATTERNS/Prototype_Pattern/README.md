@@ -16,3 +16,9 @@ Create concrete classes (Rectangle.java, Square.java, Circle.java) extending the
 Create a class (ShapeCache.java) to get concrete classes from database and store them in a Hashtable.
 ### Step 4
 PrototypePatternDemo (PrototypePatternDemo.java) uses ShapeCache class to get clones of shapes stored in a Hashtable.
+### Output
+```
+Shape : Circle
+Shape : Square
+Shape : Rectangle
+```
