@@ -19,8 +19,10 @@ Create concrete class (Circle.java) implementing the Shape interface.
 ### Step 5
 Use the Shape and DrawAPI classes to draw different colored circles (BridgePatternDemo.java).
 ### Output
-
-
+```
+Drawing Circle[ color: red, radius: 10, x: 100, 100]
+Drawing Circle[  color: green, radius: 10, x: 100, 100]
+```
 
 
 
